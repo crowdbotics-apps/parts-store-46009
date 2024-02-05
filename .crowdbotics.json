@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "Parts Store",
+      "project_slug": "parts_store_46009",
+      "project_dash_slug": "parts-store-46009",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "matthew.phillips@global.komatsu",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
